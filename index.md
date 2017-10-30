@@ -1,1 +1,1 @@
-![Logo](Yam Jam Logo.png)
+![Logo](logo.png)
